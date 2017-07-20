@@ -1,5 +1,4 @@
 # Makers-Agency-app under the [humanitarian-agpl-license](http://namzezam.wikidot.com/humanitarian-agpl-license)
-Calculating the most economical tasks of group of markers in their channel of agency.
 Makers Agency, the app of the "makers" people grouped in their "channels" of an "agency", where
 * each channel complete some "tasks" satisfying their "clients", as the agency is a registered organization and the makers are referable for the clients as channel@agency,
 * the makers in the agency are free to move between the channels or to create a new channel, as one maker may be in more than one channel,
