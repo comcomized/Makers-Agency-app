@@ -1,5 +1,5 @@
 # Makers-Agency-app under the [humanitarian-agpl-license](http://namzezam.wikidot.com/humanitarian-agpl-license)
-Makers Agency, the app of the "makers" people grouped in their "channels" of an "agency", where
+Makers Agency, the app of the ["makers" people grouped in their "channels" of an "agency"](http://liquid-unions.wikidot.com/liquid-agency), where
 * each channel complete some "tasks" satisfying their "clients", as the agency is a registered organization and the makers are referable for the clients as channel@agency,
 * the makers in the agency are free to move between the channels or to create a new channel, as one maker may be in more than one channel,
 * the app maintain for the agency the negotiations with the clients and the registry of the makers in the channels, 
