@@ -9,13 +9,13 @@ Makers Agency, the app of the ["makers" people grouped in their "channels" of an
    * is made on the makers' device and/or on their cloud service.
 
 use-case1: 
-* makers: 	drivers, 
+* makers: 	drivers, which could also be "returning" in car sharing and/orin shared transpor
 * clients:	cars agencies, 
 * task: 	returning cars agencies, 
 * get: 	drive-to,
 * spend: 	returning,
 * calculation: also made for driving additional cars while returning home.
-
+ 
 use-case2:  
 * makers: 	creative class, intellectuals, scientists, artists, developers etc,
 * clients: 	institutes/companies,
