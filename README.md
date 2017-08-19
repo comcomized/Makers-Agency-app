@@ -22,6 +22,7 @@ use-case2:
 * task: 	completing some offers, 
 * get:  	creative class values supplied by the makers working team in their channel, eg: producing app,
 * spend: 	costs for availability, accommodation, movement, equipment, learning time, spending time and stress. 
+<center><a href="" target="_blank"><img src="http://namzezam.wdfiles.com/local--files/start/interface.png"/></a></center>
 
 Converting a 2d map to a 3d map in time, by first rotating x to z and then showing x=time, y=north-south and z=east-west, such that position(r,maxz) = (y*maxz+z)*r and location(position) appear as horizontal line, where “here” is on y=0,z=0) at any time (and with some highlighted locations being shown), Where
 *	earning: (price, to, from) 
